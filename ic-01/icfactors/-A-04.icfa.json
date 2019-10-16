@@ -1,8 +1,9 @@
 {
     "AX": {
         "error": 0.0,
-        "fit": "default",
-        "references": [],
+        "fit": "Average",
+        "references": "",
+        "reviewed": true,
         "value": 1.0
     },
     "H1": {
@@ -13,14 +14,16 @@
     },
     "L1": {
         "error": 0.0,
-        "fit": "default",
-        "references": [],
+        "fit": "Average",
+        "references": "",
+        "reviewed": true,
         "value": 1.0
     },
     "L2": {
         "error": 0.0,
-        "fit": "default",
-        "references": [],
+        "fit": "Average",
+        "references": "",
+        "reviewed": true,
         "value": 1.0
     }
 }
